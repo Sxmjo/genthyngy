@@ -1,0 +1,10 @@
+Quick setup:
+
+1. pip install -r requirements.txt
+2. python setup_db.py
+3. python api.py
+
+Then run run_client.bat
+
+Default key:
+KEY-001
